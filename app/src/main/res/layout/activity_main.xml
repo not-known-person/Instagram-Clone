@@ -12,7 +12,9 @@
         android:layout_height="120dp"
         app:srcCompat="@drawable/instagram"
         tools:layout_editor_absoluteX="145dp"
-        tools:layout_editor_absoluteY="221dp" />
+        tools:layout_editor_absoluteY="221dp"
+
+        />
 
     <TextView
         android:id="@+id/textView"
